@@ -5,7 +5,7 @@
 // 
 // Create Date: 03/26/2025 03:43:09 PM
 // Design Name: 
-// Module Name: Lab5Top
+// Module Name: StepperMotorTop
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module Lab5Top(
+module StepperMotorTop(
 input clk, 
 input reset,
 //input dir,

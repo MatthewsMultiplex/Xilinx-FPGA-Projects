@@ -5,7 +5,7 @@
 // 
 // Create Date: 03/07/2025 02:56:26 PM
 // Design Name: 
-// Module Name: Lab4Top
+// Module Name: UltraSonicTo
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module Lab4Top(
+module UltraSonicTo(
 input reset,
 input start, 
 input usPulse,

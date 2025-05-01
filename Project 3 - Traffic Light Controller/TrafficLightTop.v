@@ -5,7 +5,7 @@
 // 
 // Create Date: 02/26/2025 02:29:39 PM
 // Design Name: 
-// Module Name: Lab3Top
+// Module Name: TrafficLightTop
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module Lab3Top(
+module TrafficLightTop(
     input clk,
     input init,
     input reset,

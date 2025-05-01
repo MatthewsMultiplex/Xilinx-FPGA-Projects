@@ -5,7 +5,7 @@
 // 
 // Create Date: 04/04/2025 03:12:21 PM
 // Design Name: 
-// Module Name: Lab6Top
+// Module Name: MotorControlTop
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module Lab6Top(
+module MotorControlTop(
 input clk,
 input reset,
 input [11:0] sw,

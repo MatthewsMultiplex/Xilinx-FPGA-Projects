@@ -5,7 +5,7 @@
 // 
 // Create Date: 04/16/2025 04:37:18 PM
 // Design Name: 
-// Module Name: topSeven
+// Module Name: SPITop
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module topSeven(
+module SPITop(
 input clk,
 input reset,
 input start,
